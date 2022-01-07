@@ -148,7 +148,7 @@
         },
         "HEROKU_API_KEY": {
             "description": "Heroku API Key.",
-            "required": true
+            "required": false
         },
         "MUTE_MESSAGE": {
             "description": "Customizable Mute Message! Use => default, to change back.",
@@ -201,7 +201,7 @@
         },
         "HEROKU_APP_NAME": {
             "description": "Heroku APP Name.",
-            "required": true
+            "required": false
         },
         "DEBUG": {
             "description": "Debugging",
