@@ -18,7 +18,7 @@ class StringSession {
 
     deCrypt(string = undefined) {
 
-        if ('FOX_CODE' in process.env && string === undefined) {
+        if ('FOXI_CODE' in process.env && string === undefined) {
 
             string = process.env.STRING_SESSION;
 
@@ -46,7 +46,7 @@ class StringSession {
 
     createStringSession(dict) {
 
-        return 'Fox;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
+        return 'Foxı;;;' + Buffer.from(JSON.stringify(dict)).toString('base64');
 
     }
 
