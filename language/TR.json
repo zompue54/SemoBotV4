@@ -456,12 +456,6 @@
             "USAGE": "Sesteki cümleleri yazıya çevirir.",
             "TEXT": "*Hey! Seste bunları duydum!:*\n\n"
         },
-        "aiscanner": {
-            "NOT_FOUND": "Aradığınız komuta benzer başka bir komut bulamadık..",
-            "FOUND": "*Aradığınız komut bulunamadı, benzeyen komutlar:* \n 🔎 ```",
-            "SEARCHING": "🔎 Komut bulunamadı.. Benzer komutlar aranıyor..",
-            "NEW_UPDATE": "Bot için yeni güncelleme mevcut!"
-        },
         "notes": {
             "NOTES_USAGE": "Varolan tüm notlarınızı gösterir.",
             "NO_SAVED": "Kaydedilmiş herhangi bir notunuz bulunmadı.",
