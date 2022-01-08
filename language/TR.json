@@ -175,6 +175,7 @@
         },
         "scrapers": {
             "TRANSLATE_DESC": "Google çeviri ile çeviri yapar. Bir mesaja yanıt vermeniz gerekmektedir.\n⌨️ Örnek: .trt tr en",
+            "TRANSLATE_USAGE": ".trt tr it (From Turkish to Italian)",
             "NEED_REPLY": "```Lütfen bir mesaja yanıt verin!```",
             "LANG": "Dil",
             "SING_DESC": "Yazdığın şarkıyı söylüyor.",
