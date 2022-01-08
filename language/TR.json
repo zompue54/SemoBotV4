@@ -191,6 +191,7 @@
             "TTS_DESC": "Yazıyı sese çevirir.",
             "TTS_ERROR": "```Hata, yazdığınız cümlenin konuşma sentezi yapılamadı!```",
             "SONG_DESC": "Yazdığınız şarkıyı yükler.",
+            "ISONG_DESC": "İos kullanıcıları için yazdığınız şarkıyı yükler.",
             "NEED_TEXT_SONG": "*Lütfen bir şarkı yazın!*\n*Örnek:* ```.song flört - rasta baba```",
             "NO_RESULT": "*Hiçbir şey bulamadım :(*",
             "DOWNLOADING_SONG": "İndiriliyor",
