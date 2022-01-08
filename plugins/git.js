@@ -21,11 +21,11 @@ Fox.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, 
             
 
 
-*github* : https://github.com/CEHunter30/FOXI.
+*github* : https://github.com/CEHunter30/FOXIT.
 
 
 ◄━⦁🦊 FOX🦊⦁━►
-■□ ~CEHUNTER~■□ 
+■□ ~CEHUNTER~ ■□ 
 
 `}) 
 
