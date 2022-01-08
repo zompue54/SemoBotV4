@@ -20,11 +20,6 @@ Fox.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message, 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `◄━⦁🦊 FOX🦊⦁━►
             
 
-*owner number CEHunter* :https://wa.me/905525902609.
-
-
-*owner fox whatsapp bot grup* :https://chat.whatsapp.com/EBAZblmwkVp3SOpZ75yOeW.
-
 
 *github* : https://github.com/CEHunter30/FOXI.
 
