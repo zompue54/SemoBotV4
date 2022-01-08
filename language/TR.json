@@ -9,6 +9,7 @@
             "NOT_FOUND": "*Böyle bir komut bulamadım!*",
             "PLKADMIN": ".report sen yönetici değilsin",
             "WARN": "Uyarı"
+
         },
         "_plugin": {
             "INSTALL_DESC": "Plugin yükler.\n⌨️ Örnek: .install https://gist.github.com/phaticusthiccy/d41dd4428faf34ab8cfd4c392501c62e",
