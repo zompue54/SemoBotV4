@@ -42,7 +42,7 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language.English => en",
+            "description": "Bot language.English => en , Turkish => tr",
             "required": false,
             "value": "en"
         },
