@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/CEHunter30">CEHunter30</a> to make it public
+Project created by <a href="https://github.com/semoandroidwa">Mr_SEMO</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,10 +23,10 @@ Project created by <a href="https://github.com/CEHunter30">CEHunter30</a> to mak
 
   ### Simple Method
  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@CivanErtunc/FOX-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@semoandroidwa/FOX-QR?v=1)
   
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CEHunter30/FOXIT) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/semoandroidwa/SemoBotV4) 
  
 ### The Hard Method
 ```js
@@ -76,9 +76,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-![CEHunter30](https://github.com/CEHunter30.png?size=100)
+![Mr_SEMO](https://github.com/semoandroidwa.png?size=100)
 
- [CEHunter30](https://github.com/CEHunter30)
+ [Mr_SEMO](https://github.com/semoandroidwa)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
   </div>
     
